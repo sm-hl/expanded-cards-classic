@@ -4,7 +4,7 @@ Ce projet a été développé pour créer une mise en page de cartes extensibles
 
 ## Aperçu
 
-[une capture d'écran ou une démo](./img/expanded-cards.png)
+![une capture d'écran ou une démo](./img/expanded-cards.png)
 
 ## Fonctionnalités
 
